@@ -1,0 +1,176 @@
+"sale_date";"region";"manufacturer";"model";"units_sold";"revenue";"discount_applied"
+"2024-01-01";"California";"Tesla";"Model Y";1200;60000000.0;5.0
+"2024-01-01";"Texas";"Rivian";"R1T";350;28000000.0;3.0
+"2024-04-01";"Florida";"Ford";"Mustang Mach-E";450;27000000.0;4.0
+"2024-07-01";"New York";"Lucid";"Air";200;20000000.0;2.0
+"2024-10-01";"Illinois";"Tesla";"Model 3";900;45000000.0;5.0
+"2024-01-15";"California";"Tesla";"Model S";180;18000000.0;4.5
+"2024-01-20";"Texas";"Tesla";"Model X";220;22000000.0;5.0
+"2024-02-05";"Florida";"Rivian";"R1S";280;28000000.0;3.5
+"2024-02-10";"New York";"Ford";"F-150 Lightning";320;32000000.0;4.0
+"2024-03-01";"Illinois";"Lucid";"Gravity";150;22500000.0;2.5
+"2024-03-15";"California";"Tesla";"Cybertruck";400;40000000.0;6.0
+"2024-04-05";"Texas";"Rivian";"R1T";380;30400000.0;3.0
+"2024-04-20";"Florida";"Ford";"Mustang Mach-E";420;25200000.0;4.0
+"2024-05-01";"New York";"Lucid";"Air";230;23000000.0;2.0
+"2024-05-15";"Illinois";"Tesla";"Model 3";950;47500000.0;5.0
+"2024-06-01";"California";"Tesla";"Model Y";1100;55000000.0;5.0
+"2024-06-15";"Texas";"Rivian";"R1S";310;31000000.0;3.5
+"2024-07-05";"Florida";"Ford";"F-150 Lightning";290;29000000.0;4.0
+"2024-07-20";"New York";"Lucid";"Gravity";170;25500000.0;2.5
+"2024-08-01";"Illinois";"Tesla";"Model S";200;20000000.0;4.5
+"2024-08-15";"California";"Tesla";"Model X";240;24000000.0;5.0
+"2024-09-01";"Texas";"Rivian";"R1T";360;28800000.0;3.0
+"2024-09-15";"Florida";"Ford";"Mustang Mach-E";430;25800000.0;4.0
+"2024-10-05";"New York";"Lucid";"Air";210;21000000.0;2.0
+"2024-10-20";"Illinois";"Tesla";"Model 3";920;46000000.0;5.0
+"2024-11-01";"California";"Tesla";"Model Y";1250;62500000.0;5.0
+"2024-11-15";"Texas";"Rivian";"R1S";330;33000000.0;3.5
+"2024-12-01";"Florida";"Ford";"F-150 Lightning";310;31000000.0;4.0
+"2024-12-15";"New York";"Lucid";"Gravity";190;28500000.0;2.5
+"2024-01-01";"Arizona";"Tesla";"Model 3";850;42500000.0;5.0
+"2024-01-01";"Colorado";"Rivian";"R1T";340;27200000.0;3.0
+"2024-01-15";"Washington";"Ford";"Mustang Mach-E";470;28200000.0;4.0
+"2024-01-20";"Oregon";"Lucid";"Air";220;22000000.0;2.0
+"2024-02-05";"Nevada";"Tesla";"Model S";190;19000000.0;4.5
+"2024-02-10";"Utah";"Tesla";"Model X";230;23000000.0;5.0
+"2024-03-01";"New Mexico";"Rivian";"R1S";270;27000000.0;3.5
+"2024-03-15";"Idaho";"Ford";"F-150 Lightning";300;30000000.0;4.0
+"2024-04-01";"Montana";"Lucid";"Gravity";140;21000000.0;2.5
+"2024-04-15";"Wyoming";"Tesla";"Cybertruck";380;38000000.0;6.0
+"2024-05-01";"North Dakota";"Rivian";"R1T";320;25600000.0;3.0
+"2024-05-15";"South Dakota";"Ford";"Mustang Mach-E";410;24600000.0;4.0
+"2024-06-01";"Nebraska";"Lucid";"Air";190;19000000.0;2.0
+"2024-06-15";"Kansas";"Tesla";"Model 3";880;44000000.0;5.0
+"2024-07-01";"Oklahoma";"Tesla";"Model Y";1050;52500000.0;5.0
+"2024-07-15";"Missouri";"Rivian";"R1S";290;29000000.0;3.5
+"2024-08-01";"Arkansas";"Ford";"F-150 Lightning";270;27000000.0;4.0
+"2024-08-15";"Louisiana";"Lucid";"Gravity";160;24000000.0;2.5
+"2024-09-01";"Mississippi";"Tesla";"Model S";170;17000000.0;4.5
+"2024-09-15";"Alabama";"Tesla";"Model X";210;21000000.0;5.0
+"2024-10-01";"Georgia";"Rivian";"R1T";330;26400000.0;3.0
+"2024-10-15";"Tennessee";"Ford";"Mustang Mach-E";440;26400000.0;4.0
+"2024-11-01";"Kentucky";"Lucid";"Air";200;20000000.0;2.0
+"2024-11-15";"Ohio";"Tesla";"Model 3";910;45500000.0;5.0
+"2024-12-01";"Indiana";"Tesla";"Model Y";1150;57500000.0;5.0
+"2024-12-15";"Michigan";"Rivian";"R1S";300;30000000.0;3.5
+"2024-01-01";"Wisconsin";"Ford";"F-150 Lightning";280;28000000.0;4.0
+"2024-01-15";"Minnesota";"Lucid";"Gravity";180;27000000.0;2.5
+"2024-02-01";"Iowa";"Tesla";"Model S";200;20000000.0;4.5
+"2024-02-15";"Illinois";"Tesla";"Model X";250;25000000.0;5.0
+"2024-03-01";"Indiana";"Rivian";"R1T";370;29600000.0;3.0
+"2024-03-15";"Ohio";"Ford";"Mustang Mach-E";460;27600000.0;4.0
+"2024-04-01";"Michigan";"Lucid";"Air";240;24000000.0;2.0
+"2024-04-15";"Wisconsin";"Tesla";"Model 3";930;46500000.0;5.0
+"2024-05-01";"Minnesota";"Tesla";"Model Y";1300;65000000.0;5.0
+"2024-05-15";"Iowa";"Rivian";"R1S";340;34000000.0;3.5
+"2024-06-01";"Missouri";"Ford";"F-150 Lightning";320;32000000.0;4.0
+"2024-06-15";"Arkansas";"Lucid";"Gravity";200;30000000.0;2.5
+"2024-07-01";"Louisiana";"Tesla";"Model S";220;22000000.0;4.5
+"2024-07-15";"Mississippi";"Tesla";"Model X";260;26000000.0;5.0
+"2024-08-01";"Alabama";"Rivian";"R1T";390;31200000.0;3.0
+"2024-08-15";"Georgia";"Ford";"Mustang Mach-E";480;28800000.0;4.0
+"2024-09-01";"Tennessee";"Lucid";"Air";250;25000000.0;2.0
+"2024-09-15";"Kentucky";"Tesla";"Model 3";970;48500000.0;5.0
+"2024-10-01";"Ohio";"Tesla";"Model Y";1400;70000000.0;5.0
+"2024-10-15";"Indiana";"Rivian";"R1S";360;36000000.0;3.5
+"2024-11-01";"Michigan";"Ford";"F-150 Lightning";340;34000000.0;4.0
+"2024-11-15";"Wisconsin";"Lucid";"Gravity";220;33000000.0;2.5
+"2024-12-01";"Minnesota";"Tesla";"Model S";240;24000000.0;4.5
+"2024-12-15";"Iowa";"Tesla";"Model X";280;28000000.0;5.0
+"2024-01-01";"Pennsylvania";"Rivian";"R1T";410;32800000.0;3.0
+"2024-01-15";"New York";"Ford";"Mustang Mach-E";500;30000000.0;4.0
+"2024-02-01";"New Jersey";"Lucid";"Air";270;27000000.0;2.0
+"2024-02-15";"Maryland";"Tesla";"Model 3";990;49500000.0;5.0
+"2024-03-01";"Virginia";"Tesla";"Model Y";1500;75000000.0;5.0
+"2024-03-15";"West Virginia";"Rivian";"R1S";380;38000000.0;3.5
+"2024-04-01";"North Carolina";"Ford";"F-150 Lightning";360;36000000.0;4.0
+"2024-04-15";"South Carolina";"Lucid";"Gravity";240;36000000.0;2.5
+"2024-05-01";"Georgia";"Tesla";"Model S";260;26000000.0;4.5
+"2024-05-15";"Florida";"Tesla";"Model X";300;30000000.0;5.0
+"2024-06-01";"Alabama";"Rivian";"R1T";430;34400000.0;3.0
+"2024-06-15";"Mississippi";"Ford";"Mustang Mach-E";520;31200000.0;4.0
+"2024-07-01";"Louisiana";"Lucid";"Air";290;29000000.0;2.0
+"2024-07-15";"Texas";"Tesla";"Model 3";1010;50500000.0;5.0
+"2024-08-01";"California";"Tesla";"Model Y";1600;80000000.0;5.0
+"2024-08-15";"Arizona";"Rivian";"R1S";400;40000000.0;3.5
+"2024-09-01";"New Mexico";"Ford";"F-150 Lightning";380;38000000.0;4.0
+"2024-09-15";"Colorado";"Lucid";"Gravity";260;39000000.0;2.5
+"2024-10-01";"Utah";"Tesla";"Model S";280;28000000.0;4.5
+"2024-10-15";"Nevada";"Tesla";"Model X";320;32000000.0;5.0
+"2024-11-01";"Oregon";"Rivian";"R1T";450;36000000.0;3.0
+"2024-11-15";"Washington";"Ford";"Mustang Mach-E";540;32400000.0;4.0
+"2024-12-01";"Idaho";"Lucid";"Air";310;31000000.0;2.0
+"2024-12-15";"Montana";"Tesla";"Model 3";1030;51500000.0;5.0
+"2024-01-01";"Wyoming";"Tesla";"Model Y";1700;85000000.0;5.0
+"2024-01-15";"North Dakota";"Rivian";"R1S";420;42000000.0;3.5
+"2024-02-01";"South Dakota";"Ford";"F-150 Lightning";400;40000000.0;4.0
+"2024-02-15";"Nebraska";"Lucid";"Gravity";280;42000000.0;2.5
+"2024-03-01";"Kansas";"Tesla";"Model S";300;30000000.0;4.5
+"2024-03-15";"Oklahoma";"Tesla";"Model X";340;34000000.0;5.0
+"2024-04-01";"Missouri";"Rivian";"R1T";470;37600000.0;3.0
+"2024-04-15";"Arkansas";"Ford";"Mustang Mach-E";560;33600000.0;4.0
+"2024-05-01";"Louisiana";"Lucid";"Air";330;33000000.0;2.0
+"2024-05-15";"Mississippi";"Tesla";"Model 3";1050;52500000.0;5.0
+"2024-06-01";"Alabama";"Tesla";"Model Y";1800;90000000.0;5.0
+"2024-06-15";"Georgia";"Rivian";"R1S";440;44000000.0;3.5
+"2024-07-01";"Florida";"Ford";"F-150 Lightning";420;42000000.0;4.0
+"2024-07-15";"South Carolina";"Lucid";"Gravity";300;45000000.0;2.5
+"2024-08-01";"North Carolina";"Tesla";"Model S";320;32000000.0;4.5
+"2024-08-15";"Virginia";"Tesla";"Model X";360;36000000.0;5.0
+"2024-09-01";"West Virginia";"Rivian";"R1T";490;39200000.0;3.0
+"2024-09-15";"Maryland";"Ford";"Mustang Mach-E";580;34800000.0;4.0
+"2024-10-01";"New Jersey";"Lucid";"Air";350;35000000.0;2.0
+"2024-10-15";"New York";"Tesla";"Model 3";1070;53500000.0;5.0
+"2024-11-01";"Pennsylvania";"Tesla";"Model Y";1900;95000000.0;5.0
+"2024-11-15";"Connecticut";"Rivian";"R1S";460;46000000.0;3.5
+"2024-12-01";"Massachusetts";"Ford";"F-150 Lightning";440;44000000.0;4.0
+"2024-12-15";"Vermont";"Lucid";"Gravity";320;48000000.0;2.5
+"2024-01-01";"New Hampshire";"Tesla";"Model S";340;34000000.0;4.5
+"2024-01-15";"Maine";"Tesla";"Model X";380;38000000.0;5.0
+"2024-02-01";"Rhode Island";"Rivian";"R1T";510;40800000.0;3.0
+"2024-02-15";"Delaware";"Ford";"Mustang Mach-E";600;36000000.0;4.0
+"2024-03-01";"Washington DC";"Lucid";"Air";370;37000000.0;2.0
+"2024-03-15";"Alaska";"Tesla";"Model 3";1090;54500000.0;5.0
+"2024-04-01";"Hawaii";"Tesla";"Model Y";2000;100000000.0;5.0
+"2024-04-15";"Puerto Rico";"Rivian";"R1S";480;48000000.0;3.5
+"2024-05-01";"Guam";"Ford";"F-150 Lightning";460;46000000.0;4.0
+"2024-05-15";"Virgin Islands";"Lucid";"Gravity";340;51000000.0;2.5
+"2024-06-01";"American Samoa";"Tesla";"Model S";360;36000000.0;4.5
+"2024-06-15";"Northern Mariana";"Tesla";"Model X";400;40000000.0;5.0
+"2024-07-01";"California";"Rivian";"R1T";530;42400000.0;3.0
+"2024-07-15";"Texas";"Ford";"Mustang Mach-E";620;37200000.0;4.0
+"2024-08-01";"Florida";"Lucid";"Air";390;39000000.0;2.0
+"2024-08-15";"New York";"Tesla";"Model 3";1110;55500000.0;5.0
+"2024-09-01";"Illinois";"Tesla";"Model Y";2100;105000000.0;5.0
+"2024-09-15";"Pennsylvania";"Rivian";"R1S";500;50000000.0;3.5
+"2024-10-01";"Ohio";"Ford";"F-150 Lightning";480;48000000.0;4.0
+"2024-10-15";"Georgia";"Lucid";"Gravity";360;54000000.0;2.5
+"2024-11-01";"North Carolina";"Tesla";"Model S";380;38000000.0;4.5
+"2024-11-15";"Michigan";"Tesla";"Model X";420;42000000.0;5.0
+"2024-12-01";"New Jersey";"Rivian";"R1T";550;44000000.0;3.0
+"2024-12-15";"Virginia";"Ford";"Mustang Mach-E";640;38400000.0;4.0
+"2024-01-01";"Washington";"Lucid";"Air";410;41000000.0;2.0
+"2024-01-15";"Massachusetts";"Tesla";"Model 3";1130;56500000.0;5.0
+"2024-02-01";"Arizona";"Tesla";"Model Y";2200;110000000.0;5.0
+"2024-02-15";"Indiana";"Rivian";"R1S";520;52000000.0;3.5
+"2024-03-01";"Tennessee";"Ford";"F-150 Lightning";500;50000000.0;4.0
+"2024-03-15";"Missouri";"Lucid";"Gravity";380;57000000.0;2.5
+"2024-04-01";"Maryland";"Tesla";"Model S";400;40000000.0;4.5
+"2024-04-15";"Wisconsin";"Tesla";"Model X";440;44000000.0;5.0
+"2024-05-01";"Minnesota";"Rivian";"R1T";570;45600000.0;3.0
+"2024-05-15";"Colorado";"Ford";"Mustang Mach-E";660;39600000.0;4.0
+"2024-06-01";"Alabama";"Lucid";"Air";430;43000000.0;2.0
+"2024-06-15";"South Carolina";"Tesla";"Model 3";1150;57500000.0;5.0
+"2024-07-01";"Louisiana";"Tesla";"Model Y";2300;115000000.0;5.0
+"2024-07-15";"Kentucky";"Rivian";"R1S";540;54000000.0;3.5
+"2024-08-01";"Oklahoma";"Ford";"F-150 Lightning";520;52000000.0;4.0
+"2024-08-15";"Oregon";"Lucid";"Gravity";400;60000000.0;2.5
+"2024-09-01";"Connecticut";"Tesla";"Model S";420;42000000.0;4.5
+"2024-09-15";"Iowa";"Tesla";"Model X";460;46000000.0;5.0
+"2024-10-01";"Utah";"Rivian";"R1T";590;47200000.0;3.0
+"2024-10-15";"Nevada";"Ford";"Mustang Mach-E";680;40800000.0;4.0
+"2024-11-01";"New Mexico";"Lucid";"Air";450;45000000.0;2.0
+"2024-11-15";"Nebraska";"Tesla";"Model 3";1170;58500000.0;5.0
+"2024-12-01";"Kansas";"Tesla";"Model Y";2400;120000000.0;5.0
+"2024-12-15";"Arkansas";"Rivian";"R1S";560;56000000.0;3.5

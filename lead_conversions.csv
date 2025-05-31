@@ -1,0 +1,165 @@
+"region";"lead_source";"total_leads";"converted_leads";"conversion_rate_pct"
+"California";"Social Media";1;1.0;100.0
+"Texas";"Email";1;0.0;0.0
+"Florida";"Paid Search";1;1.0;100.0
+"Illinois";"Referral";2;1.0;50.0
+"New York";"Direct";1;0.0;0.0
+"California";"Organic Search";2;1.0;50.0
+"Texas";"Social Media";2;1.0;50.0
+"Florida";"Email";2;1.0;50.0
+"Illinois";"Paid Search";2;1.0;50.0
+"New York";"Referral";2;1.0;50.0
+"California";"Direct";1;1.0;100.0
+"Texas";"Organic Search";1;0.0;0.0
+"Florida";"Social Media";1;1.0;100.0
+"Illinois";"Email";2;0.0;0.0
+"New York";"Paid Search";1;1.0;100.0
+"California";"Referral";2;0.0;0.0
+"Texas";"Direct";2;2.0;100.0
+"Florida";"Organic Search";2;0.0;0.0
+"Illinois";"Social Media";2;2.0;100.0
+"New York";"Email";2;0.0;0.0
+"Arizona";"Paid Search";2;2.0;100.0
+"Colorado";"Referral";2;0.0;0.0
+"Washington";"Direct";2;2.0;100.0
+"Oregon";"Organic Search";2;0.0;0.0
+"Nevada";"Social Media";2;2.0;100.0
+"Utah";"Email";2;0.0;0.0
+"New Mexico";"Paid Search";2;2.0;100.0
+"Idaho";"Referral";2;0.0;0.0
+"Montana";"Direct";2;2.0;100.0
+"Wyoming";"Organic Search";2;0.0;0.0
+"North Dakota";"Social Media";2;2.0;100.0
+"South Dakota";"Email";2;0.0;0.0
+"Nebraska";"Paid Search";2;2.0;100.0
+"Kansas";"Referral";2;0.0;0.0
+"Oklahoma";"Direct";2;2.0;100.0
+"Missouri";"Organic Search";2;0.0;0.0
+"Arkansas";"Social Media";2;2.0;100.0
+"Louisiana";"Email";2;0.0;0.0
+"Mississippi";"Paid Search";2;2.0;100.0
+"Alabama";"Referral";2;0.0;0.0
+"Georgia";"Direct";2;2.0;100.0
+"Tennessee";"Organic Search";2;0.0;0.0
+"Kentucky";"Social Media";2;2.0;100.0
+"Ohio";"Email";2;0.0;0.0
+"Indiana";"Paid Search";1;1.0;100.0
+"Michigan";"Referral";1;0.0;0.0
+"Wisconsin";"Direct";1;1.0;100.0
+"Minnesota";"Organic Search";1;0.0;0.0
+"Iowa";"Social Media";1;1.0;100.0
+"Pennsylvania";"Paid Search";1;1.0;100.0
+"New Jersey";"Referral";1;0.0;0.0
+"Maryland";"Direct";1;1.0;100.0
+"Virginia";"Organic Search";1;0.0;0.0
+"West Virginia";"Social Media";1;1.0;100.0
+"North Carolina";"Email";1;0.0;0.0
+"South Carolina";"Paid Search";1;1.0;100.0
+"Maine";"Referral";1;0.0;0.0
+"New Hampshire";"Direct";1;1.0;100.0
+"Vermont";"Organic Search";1;0.0;0.0
+"Massachusetts";"Social Media";1;1.0;100.0
+"Rhode Island";"Email";1;0.0;0.0
+"Connecticut";"Paid Search";1;1.0;100.0
+"Delaware";"Referral";1;0.0;0.0
+"Washington DC";"Direct";1;1.0;100.0
+"Alaska";"Organic Search";1;0.0;0.0
+"Hawaii";"Social Media";1;1.0;100.0
+"California";"Email";1;0.0;0.0
+"Texas";"Paid Search";1;1.0;100.0
+"Florida";"Referral";1;0.0;0.0
+"Illinois";"Direct";1;1.0;100.0
+"New York";"Organic Search";1;0.0;0.0
+"Arizona";"Social Media";1;1.0;100.0
+"Colorado";"Email";1;0.0;0.0
+"Washington";"Paid Search";1;1.0;100.0
+"Oregon";"Referral";1;0.0;0.0
+"Nevada";"Direct";1;1.0;100.0
+"Utah";"Organic Search";1;0.0;0.0
+"New Mexico";"Social Media";1;1.0;100.0
+"Idaho";"Email";1;0.0;0.0
+"Montana";"Paid Search";1;1.0;100.0
+"Wyoming";"Referral";1;0.0;0.0
+"North Dakota";"Direct";1;1.0;100.0
+"South Dakota";"Organic Search";1;0.0;0.0
+"Nebraska";"Social Media";1;1.0;100.0
+"Kansas";"Email";1;0.0;0.0
+"Oklahoma";"Paid Search";1;1.0;100.0
+"Missouri";"Referral";1;0.0;0.0
+"Arkansas";"Direct";1;1.0;100.0
+"Louisiana";"Organic Search";1;0.0;0.0
+"Mississippi";"Social Media";1;1.0;100.0
+"Alabama";"Email";1;0.0;0.0
+"Georgia";"Paid Search";1;1.0;100.0
+"Tennessee";"Referral";1;0.0;0.0
+"Kentucky";"Direct";1;1.0;100.0
+"Ohio";"Organic Search";1;0.0;0.0
+"Indiana";"Social Media";1;1.0;100.0
+"Michigan";"Email";1;0.0;0.0
+"Wisconsin";"Paid Search";1;1.0;100.0
+"Minnesota";"Referral";1;0.0;0.0
+"Iowa";"Direct";1;1.0;100.0
+"Illinois";"Organic Search";1;0.0;0.0
+"Pennsylvania";"Social Media";1;1.0;100.0
+"New Jersey";"Email";1;0.0;0.0
+"Maryland";"Paid Search";1;1.0;100.0
+"Virginia";"Referral";1;0.0;0.0
+"West Virginia";"Direct";1;1.0;100.0
+"North Carolina";"Organic Search";1;0.0;0.0
+"South Carolina";"Social Media";1;1.0;100.0
+"Maine";"Email";1;0.0;0.0
+"New Hampshire";"Paid Search";1;1.0;100.0
+"Vermont";"Referral";1;0.0;0.0
+"Massachusetts";"Direct";1;1.0;100.0
+"Rhode Island";"Organic Search";1;0.0;0.0
+"Connecticut";"Social Media";1;1.0;100.0
+"Delaware";"Email";1;0.0;0.0
+"Washington DC";"Paid Search";1;1.0;100.0
+"Alaska";"Referral";1;0.0;0.0
+"Hawaii";"Direct";1;1.0;100.0
+"Arizona";"Direct";1;1.0;100.0
+"Colorado";"Organic Search";1;0.0;0.0
+"Washington";"Social Media";1;1.0;100.0
+"Oregon";"Email";1;0.0;0.0
+"Nevada";"Paid Search";1;1.0;100.0
+"Utah";"Referral";1;0.0;0.0
+"New Mexico";"Direct";1;1.0;100.0
+"Idaho";"Organic Search";1;0.0;0.0
+"Montana";"Social Media";1;1.0;100.0
+"Wyoming";"Email";1;0.0;0.0
+"North Dakota";"Paid Search";1;1.0;100.0
+"South Dakota";"Referral";1;0.0;0.0
+"Nebraska";"Direct";1;1.0;100.0
+"Kansas";"Organic Search";1;0.0;0.0
+"Oklahoma";"Social Media";1;1.0;100.0
+"Missouri";"Email";1;0.0;0.0
+"Arkansas";"Paid Search";1;1.0;100.0
+"Louisiana";"Referral";1;0.0;0.0
+"Mississippi";"Direct";1;1.0;100.0
+"Alabama";"Organic Search";1;0.0;0.0
+"Georgia";"Social Media";1;1.0;100.0
+"Tennessee";"Email";1;0.0;0.0
+"Kentucky";"Paid Search";1;1.0;100.0
+"Ohio";"Referral";1;0.0;0.0
+"Indiana";"Direct";1;1.0;100.0
+"Michigan";"Organic Search";1;0.0;0.0
+"Wisconsin";"Social Media";1;1.0;100.0
+"Minnesota";"Email";1;0.0;0.0
+"Iowa";"Paid Search";1;1.0;100.0
+"Pennsylvania";"Direct";1;1.0;100.0
+"New Jersey";"Organic Search";1;0.0;0.0
+"Maryland";"Social Media";1;1.0;100.0
+"Virginia";"Email";1;0.0;0.0
+"West Virginia";"Paid Search";1;1.0;100.0
+"North Carolina";"Referral";1;0.0;0.0
+"South Carolina";"Direct";1;1.0;100.0
+"Maine";"Organic Search";1;0.0;0.0
+"New Hampshire";"Social Media";1;1.0;100.0
+"Vermont";"Email";1;0.0;0.0
+"Massachusetts";"Paid Search";1;1.0;100.0
+"Rhode Island";"Referral";1;0.0;0.0
+"Connecticut";"Direct";1;1.0;100.0
+"Delaware";"Organic Search";1;0.0;0.0
+"Washington DC";"Social Media";1;1.0;100.0
+"Alaska";"Email";1;0.0;0.0
+"Hawaii";"Paid Search";1;1.0;100.0
